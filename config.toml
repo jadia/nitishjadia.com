@@ -14,8 +14,8 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Nitish"
-    info = "BackEnd DevOps and Containers"
+    author = "Nitish Jadia"
+    info = "BackEnd and DevOps"
     description = "Nitish personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/jadia.jpeg"
