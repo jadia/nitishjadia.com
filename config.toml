@@ -38,6 +38,11 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
     url = "https://github.com/jadia/"
 [[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook-f fa-2x"
+    weight = 2
+    url = "https://www.facebook.com/jadianitish"
+[[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 3
@@ -47,6 +52,21 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/jadianitish/"
+[[params.social]]
+    name = "KeyBase.io"
+    icon = "fab fa-keybase fa-2x"
+    weight = 5
+    url = "https://keybase.io/jadia"
+[[params.social]]
+    name = "Blog"
+    icon = "fab fa-blogger fa-2x"
+    weight = 6
+    url = "https://jadia.dev"
+[[params.social]]
+    name = "Mail"
+    icon = "fas fa-at fa-2x"
+    weight = 7
+    url = "mailto:nitish@jadia.dev"
 
 # Menu links
 [[menu.main]]
