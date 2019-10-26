@@ -11,7 +11,9 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+googleAnalytics = "UA-61932410-5"
+
+#disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Nitish Jadia"
