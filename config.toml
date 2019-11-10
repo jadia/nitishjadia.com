@@ -69,6 +69,11 @@ googleAnalytics = "UA-61932410-5"
     icon = "fas fa-at fa-2x"
     weight = 7
     url = "mailto:nitish@jadia.dev"
+[[params.social]]
+    name = "Dev.to"
+    icon = "fab fa-dev fa-2x"
+    weight = 8
+    url = "https://dev.to/jadia"
 
 # Menu links
 [[menu.main]]
