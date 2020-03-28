@@ -84,3 +84,7 @@ googleAnalytics = "UA-61932410-5"
     name = "About"
     weight = 2
     url = "/about/"
+[[menu.main]]
+    name = "Resources"
+    weight = 3
+    url = "/resources/"
