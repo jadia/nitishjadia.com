@@ -39,11 +39,11 @@ googleAnalytics = "UA-61932410-5"
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/jadia/"
-[[params.social]]
-    name = "Facebook"
-    icon = "fab fa-facebook-f fa-2x"
-    weight = 2
-    url = "https://www.facebook.com/jadianitish"
+#[[params.social]]
+#    name = "Facebook"
+#    icon = "fab fa-facebook-f fa-2x"
+#    weight = 2
+#    url = "https://www.facebook.com/jadianitish"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
@@ -69,22 +69,22 @@ googleAnalytics = "UA-61932410-5"
     icon = "fas fa-at fa-2x"
     weight = 7
     url = "mailto:nitish@jadia.dev"
-[[params.social]]
-    name = "Dev.to"
-    icon = "fab fa-dev fa-2x"
-    weight = 8
-    url = "https://dev.to/jadia"
+#[[params.social]]
+#    name = "Dev.to"
+#    icon = "fab fa-dev fa-2x"
+#    weight = 8
+#    url = "https://dev.to/jadia"
 
 # Menu links
 [[menu.main]]
     name = "Blog"
     weight = 1
     url  = "http://jadia.dev"
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/about/"
-[[menu.main]]
-    name = "Resources"
-    weight = 3
-    url = "/resources/"
+#[[menu.main]]
+#    name = "About"
+#    weight = 2
+#    url = "/about/"
+#[[menu.main]]
+#    name = "Resources"
+#    weight = 3
+#    url = "/resources/"
