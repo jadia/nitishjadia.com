@@ -77,9 +77,13 @@ googleAnalytics = "UA-61932410-5"
 
 # Menu links
 [[menu.main]]
+    name = "jadia.dev"
+    weight = 2
+    url  = "http://jadia.dev"
+[[menu.main]]
     name = "Blog"
     weight = 1
-    url  = "http://jadia.dev"
+    url  = "/posts/"
 #[[menu.main]]
 #    name = "About"
 #    weight = 2
