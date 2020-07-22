@@ -1,5 +1,5 @@
 --- 
-title: "COVID-19 Experience" 
+title: "The fight with COVID-19" 
 description: "A day to day journal of COVID-19 experience in India" 
 date: 2020-07-17T07:42:13Z 
 draft: false 
