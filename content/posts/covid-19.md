@@ -108,21 +108,24 @@ were not sure if that is true or it was in our head.
 ## Day 04
 
 My mother got a phone call from Chief Medical and Health Officer(CMHO) informing her that
-my mother has tested positive and I am tested negative. He inquired about the symptoms and prior health issues. He suggested her to get admitted to a COVID
+she has tested positive and her son is tested negative. He inquired about the symptoms and her prior health issues. He suggested her to get admitted to a COVID
 hospital today itself. 
 
 Later we got calls from the SDM office, a doctor (who would send a screening team),
 and police station. The screening team asked for our address but never showed up.
 
 We packed the bags to get ready for the hospital. I observed that my mother started showing loss of smell symptom.
-That ambulance came in the evening and she reached the hospital in an hour.
+The ambulance came in the evening and she reached the hospital in an hour.
 Both my mom and dad are kept in the same hall. She also had an X-RAY, CT scan and gave a blood sample. Proper food, facilities, and medicines are provided.
 
 I'm tested negative but I lived with my COVID positive mother for four days. So, there is a chance of me catching the virus in these four days. I'm not going outside to buy groceries instead, I order them online.
+
+
 ## Day 05
 
 My throat is sore but I don't see any other symptom. I can still smell things.
 My parents are doing fine and taking rest. 
 
 ## Day 06
+
 *Soon to be updated* 
