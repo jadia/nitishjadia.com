@@ -2,7 +2,7 @@
 title: "The fight with COVID-19" 
 description: "A day to day journal of COVID-19 experience in India" 
 date: 2020-07-17T07:42:13Z 
-draft: false 
+draft: true 
 ---
 
 My dad contacted COVID-19 while working in the office. We all knew that it is
